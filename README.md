@@ -1,1 +1,1 @@
-# Lista_6_Java_Heran-a_Polimorfismo
+# Lista_6_Java_Heranca_Polimorfismo
